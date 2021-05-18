@@ -6,8 +6,9 @@ Run locally:
 3. Launch Jupyter Notebook
 4. Download and unzip the file
 5. Open the file "Recommender Implementation.ipynb" using Jupyter Notebook
-6. Make sure that the file "ratings_Electronics (1).csv" is in the same folder as the "Recommender Implementation.ipynb" file.
-7. Now you are able to run the file
+6. Download the dataset from Kaggle: https://www.kaggle.com/saurav9786/amazon-product-reviews
+7. Make sure that the file "ratings_Electronics (1).csv" is in the same folder as the "Recommender Implementation.ipynb" file.
+8. Now you are able to run the file
 
 
 Run using Kaggle:
