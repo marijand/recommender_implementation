@@ -1,3 +1,5 @@
+The main contribution was to apply the idea of neural collaborative filtering to the amazon product review data set and thus, how show neural collaborative filtering could be used to recommend products to customers.
+
 Steps to run the program
 
 Run locally:
